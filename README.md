@@ -1,16 +1,38 @@
-# imc_calculator_flutter
+# ⭐ Boas-Vindas ao Repositório IMC Calculator Flutter ⚖️
+> *Clique nas setas para ver mais*
+<details>
+<summary><strong>👩‍💻 O Que Foi Desenvolvido</strong></summary><br />
 
-A new Flutter project.
+Um app que calcula o IMC da pessoa usuária. O objetivo era colocar em prática os aprendizados em pages, widgets, navegação, funções e persistência local de dados.
 
-## Getting Started
+Projeto desenvolvido durante o Santander Bootcamp 2023 - Mobile com Flutter.
 
-This project is a starting point for a Flutter application.
+Tabela usada como referência para o cálculo:
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/leilaMoraes/imc_calculator/assets/109045940/c48df5b7-d4c8-4fd0-843a-af630da859da)
+</details>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<details>
+<summary><strong>👀 Para Rodar Localmente</strong></summary><br />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone o repositório   
+  `git clone https://github.com/leilaMoraes/imc_calculator_flutter.git`
+2. Navegue até a pasta do repositório clonado  
+    `cd imc_calculator_flutter`
+3. Para rodar a aplicação    
+  `flutter run`
+</details>
+
+## Roadmap
+
+### Parte 1
+
+- [ ] Criar classe IMC (Peso / Altura)​.
+- [ ] Ler dados no app.
+- [ ] Calcular IMC.
+- [ ] Exibir em uma lista.
+
+### Parte 2
+
+- [ ] Altura ler em tela de Configurações.
+- [ ] Gravar dados no Hive ou SQLite.​ 
